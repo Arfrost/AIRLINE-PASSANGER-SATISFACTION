@@ -50,15 +50,13 @@ Each model was fine-tuned using a 3-fold cross-validation `RandomizedSearchCV`. 
 
 ##  Installation & Setup
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/your-username/airline-satisfaction-prediction.git](https://github.com/your-username/airline-satisfaction-prediction.git)
-   cd airline-satisfaction-prediction
+
 
 ##  Getting Started
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/airline-satisfaction-prediction.git](https://github.com/your-username/airline-satisfaction-prediction.git)
+   git clone https://github.com/Arfrost/AIRLINE-PASSANGER-SATISFACTION/edit/main/README.md
+   cd AIRLINE-PASSANGER-SATISFACTION
 
 ## DATASET
 
