@@ -1,4 +1,4 @@
-# ✈️ Airline Passenger Satisfaction Prediction
+# Airline Passenger Satisfaction Prediction
 
 This repository contains a comprehensive data science project aimed at predicting airline passenger satisfaction. Using a dataset of over 100,000 flight records, we explore the factors that lead to a "Satisfied" vs. "Neutral or Dissatisfied" experience through advanced statistical modeling and machine learning.
 
@@ -43,3 +43,6 @@ Each model was fine-tuned using a 3-fold cross-validation `RandomizedSearchCV`. 
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/your-username/airline-satisfaction-prediction.git](https://github.com/your-username/airline-satisfaction-prediction.git)
+
+## DATASET:
+* ** https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction
