@@ -39,10 +39,27 @@ Each model was fine-tuned using a 3-fold cross-validation `RandomizedSearchCV`. 
 * **Visualization:** `matplotlib`, `seaborn`
 * **Machine Learning:** `scikit-learn`, `xgboost`
 
+## Requirements:
+
+  This project requires **Python 3.8+** and the following libraries:
+
+* **Data Manipulation:** `pandas`, `numpy`
+* **Visualization:** `matplotlib`, `seaborn`
+* **Machine Learning:** `scikit-learn`, `xgboost`
+* **Data Acquisition:** `kagglehub` (used to fetch the raw dataset)
+
+##  Installation & Setup
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/your-username/airline-satisfaction-prediction.git](https://github.com/your-username/airline-satisfaction-prediction.git)
+   cd airline-satisfaction-prediction
+
 ##  Getting Started
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/your-username/airline-satisfaction-prediction.git](https://github.com/your-username/airline-satisfaction-prediction.git)
 
-## DATASET:
-* ** https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction
+## DATASET
+
+*  https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction
